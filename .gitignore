@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+*.pyc
+*.xml
+venv
+*.log
+.idea
